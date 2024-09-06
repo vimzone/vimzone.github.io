@@ -1,4 +1,5 @@
 ## Sonja Körkkö web-tehtävä
+---
 
 ### Italics and Bold 
 Writing in Markdown is _not_ that hard!
@@ -106,7 +107,7 @@ I read this interesting quote the other day:
 
 ---
 
- ### Paragraphs 
+### Paragraphs 
 
  We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
